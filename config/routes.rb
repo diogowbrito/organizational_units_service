@@ -6,7 +6,6 @@ OrganizationalUnitsService::Application.routes.draw do
 #  resources :secretaries
 #  resources :organs
 
-  match "" => "OrgUnits#description", :defaults => { :format => :xml }
   # Organizational Units
   match "metainfo" => "OrgUnits#meta_info", :defaults => { :format => :xml}
   match "index" => "OrgUnits#description", :defaults => { :format => :xml}
