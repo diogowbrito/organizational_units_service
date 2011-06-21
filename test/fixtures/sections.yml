@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  section_name: MyString
+  schedule: MyString
+  building: 
+  space: MyString
+  coordenator: MyString
+  mail: MyString
+  email: MyString
+  telephone: MyString
+  extension: MyString
+  fax: MyString
+
+two:
+  section_name: MyString
+  schedule: MyString
+  building: 
+  space: MyString
+  coordenator: MyString
+  mail: MyString
+  email: MyString
+  telephone: MyString
+  extension: MyString
+  fax: MyString
